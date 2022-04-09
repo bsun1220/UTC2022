@@ -1,2 +1,2 @@
 # UTC2022
-Second Place Case 1
+UChicago Trading Competition Challenge
